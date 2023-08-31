@@ -3,6 +3,7 @@ BUILDER DESIGN PATTERN
 -------------------------
 why?
 - we need it when we need several statement to construct something
+
 """
 
 class HtmlElement:
